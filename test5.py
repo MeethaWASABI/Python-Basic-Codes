@@ -1,0 +1,5 @@
+a=int(input("enter an integer :"))
+b=int(input("entr an non-zero integer:"))
+print(a,"/",b,"=","%.2f"%(a/b))
+print(a,"//",b,"=",a//b)
+print(a,"%",b,"=",a%b)
